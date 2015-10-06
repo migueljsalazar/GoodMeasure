@@ -1,1 +1,1 @@
-This is part of an excercise from Wyncode.
+The exercises in this folder are from the Wyncode curriculum
